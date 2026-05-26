@@ -1,0 +1,43 @@
+something to connect to something else (young ict explorers)
+technocaly enhances the arts (IGNITE)
+first nations and traditional knowledges
+
+project that can do multiple things
+
+an app or website
+use of technology
+going to help connect to preserve / protect / raising awareness / solving one of the problems with our local region
+
+🐧penguin patrol!!!
+How it works: The player manages a stretch of the NW coast line. Penguins attempt to cross the beach to their burrows at dusk. The player must strategically spend resources to install penguin-safe fencing, deploy AI-activated "slow down" signs for passing cars, and send out "Coastcare volunteers" to eradicate weeds and plant native penguin habitat.
+Local Problem: Local penguin colonies facing major threats from night time coastal traffic, off leash dogs, feral cats and habitat degradation due to invasive weeds
+
+day - preparation
+game paused
+North West Tasmanian Beach (Lillico Beach?)
+Limited budget of Eco-Credits (earned from sucessfully saving penguins in previous rounds, 1 coin per penguin saved)
+Shop:
+- Fairy Fencing: Blocks of sensitive dune areas so penguins arent scattered into dangerous zones
+- Smart Slow-Down Signs: Automatically reduces the speed of passing cars on the coastal road/highway
+- Revegetation Mats / Weed Mats or something: Replaces invasive weeds with native grass, increaisng penguin movement speed
+- Dog Leash Law signs (i cant remember what they are actually called): Keeps roaming dogs away from specific beaches/sectors
+- Penguin Burrow: Housing for the penguins to live in, one burrow can house 3x little penguins
+
+night - crossing
+game unpaused
+penguins spawn (depending on the level maybe more penguins? 1.25x then the last level?) at the bottom of the screen (ocean) and waddle to the top (sand dune burrows)
+hazards start appearing:
+- cars horizontally across the road intersecting the beach
+- unleashed dogs
+- feral cats
+- weed patches (slowing down penguins, severely)
+for every safe penguin in their burrow a player gets points and 1 eco credit. 
+if penguin is hit = dropping community awareness score
+0 community awareness = game over
+
+maybe also a game save system?
+
+
+catchment cleaner
+How it works: The player is appointed as the "NW Water Catchment Officer." They are presented with a map divided into farming zones, old mine sites, and residential towns (like Burnie or Devonport). Every turn, they receive sensor readings (simulated data) for pH levels, turbidity, and bacterial count. The player must allocate a budget to fix cross-connected stormwater pipes, plant riparian vegetation zones along dairy farms, or build lime-dosing stations to treat acid mine water.
+The Local Problem: Intensive dairy farming causes soil loss and high turbidity in small NW catchments, while old mining sites cause acid drainage, heavily impacting local river health.  
