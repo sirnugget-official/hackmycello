@@ -6,6 +6,7 @@ screen = pygame.display.set_mode((1280, 720))
 clock = pygame.time.Clock()
 running = True
 dt = 0
+running_fps = 60
 
 player_pos = pygame.Vector2(screen.get_width() / 2, screen.get_height() / 2)
 
@@ -30,6 +31,6 @@ while running:
         player_pos.x += 300 *dt
 
     pygame.display.flip()
-    dt= clock.tick(60) / 1000 # this is the fps, maybe a settings menu where it can be adjusted??
+    dt= clock.tick(running_fps) / 1000 # this is the fps, maybe a settings menu where it can be adjusted??
 
 pygame.quit()
